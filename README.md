@@ -1,4 +1,4 @@
-# typst-tufte-template
+# tuftepst
 
 A [Typst](https://typst.app) template for **Tufte-style documents**: a wide main text
 column paired with a generous right-hand margin for numbered side notes, references, and

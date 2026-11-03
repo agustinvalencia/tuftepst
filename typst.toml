@@ -6,6 +6,6 @@ compiler = "0.15.0"
 authors = ["Agustín Valencia"]
 license = "MIT"
 description = "A Tufte-style document template for Typst — wide text column with a margin for side notes."
-repository = "https://github.com/agustinvalencia/typst-tufte-template"
+repository = "https://github.com/agustinvalencia/tuftepst"
 keywords = ["tufte", "template", "margin-notes", "sidenotes", "academic"]
 exclude = ["example.typ", "example.pdf", "README.md", "CLAUDE.md"]
