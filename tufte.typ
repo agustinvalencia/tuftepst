@@ -20,7 +20,10 @@
         leading: 0.2em,
         first-line-indent: 0pt,
     )
-    title
+    // The `title` parameter shadows the element, hence `std.title`.
+    show std.title: set text(size: 20pt, weight: "regular")
+    show std.title: set block(above: 0pt, below: 1.2em)
+    std.title(title)
     set text(size: 11pt)
     v(-0.65em)
     subtitle
