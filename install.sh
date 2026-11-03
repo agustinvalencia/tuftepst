@@ -49,4 +49,3 @@ fi
 echo ""
 echo "✅ Done. Use it with:"
 echo "  #import \"@local/$NAME:$VERSION\": *"
-echo "  typst init @local/$NAME:$VERSION my-document"

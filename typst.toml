@@ -2,6 +2,7 @@
 name = "tufte"
 version = "0.1.0"
 entrypoint = "tufte.typ"
+compiler = "0.15.0"
 authors = ["Agustín Valencia"]
 license = "MIT"
 description = "A Tufte-style document template for Typst — wide text column with a margin for side notes."
